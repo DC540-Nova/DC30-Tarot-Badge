@@ -23,5 +23,16 @@ Gerbers?  Not on your life.  Not so much about being protective of the design; t
 
 <br>
 
+## Copy Files/Folders To SD Card
+```bash
+Marseilles-Pitisci
+Rider-Waite
+Shitty-Deck
+bad_advice
+3Hats.raw
+Unispace12x24.c
+dc540_logo.raw
+```
+
 ## License
 [MIT License](https://raw.githubusercontent.com/DC540-Nova/DC30-Tarot-Badge/main/LICENSE)
