@@ -34,5 +34,10 @@ Unispace12x24.c
 dc540_logo.raw
 ```
 
+<br>
+
+## Update Firmware
+Press the white button on the Pico while plugging it into your computer.  This will create a folder on Desktop called `RPI-RP2`.  Simply drag-and-drop the `tb_0.1.0.uf2` file into the `RPI-RP2` folder.
+
 ## License
 [MIT License](https://raw.githubusercontent.com/DC540-Nova/DC30-Tarot-Badge/main/LICENSE)
